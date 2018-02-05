@@ -1,7 +1,9 @@
-<temp> 
+temp:
   cmd example: ./OpenSubtitlesDownload.py --gui cli --lang dut -a <path>
+  
   * is possible as wildcard
- to do
+  
+to do:
   create script to walk root path and check all subfolders and files and run this script for every movie file
 
 
